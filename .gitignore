@@ -1,0 +1,5 @@
+.env
+.vscode
+notes
+exercises
+__pycache__
